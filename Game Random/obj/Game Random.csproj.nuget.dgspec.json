@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Code\\C#\\Cơ Bản\\Chương II\\Game Random\\Game Random\\Game Random.csproj": {}
+    "F:\\C#\\testgit\\testgit\\testgit\\Game Random\\Game Random.csproj": {}
   },
   "projects": {
-    "T:\\Code\\C#\\Cơ Bản\\Chương II\\Game Random\\Game Random\\Game Random.csproj": {
+    "F:\\C#\\testgit\\testgit\\testgit\\Game Random\\Game Random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Code\\C#\\Cơ Bản\\Chương II\\Game Random\\Game Random\\Game Random.csproj",
+        "projectUniqueName": "F:\\C#\\testgit\\testgit\\testgit\\Game Random\\Game Random.csproj",
         "projectName": "Game Random",
-        "projectPath": "T:\\Code\\C#\\Cơ Bản\\Chương II\\Game Random\\Game Random\\Game Random.csproj",
+        "projectPath": "F:\\C#\\testgit\\testgit\\testgit\\Game Random\\Game Random.csproj",
         "packagesPath": "C:\\Users\\Dugdug\\.nuget\\packages\\",
-        "outputPath": "T:\\Code\\C#\\Cơ Bản\\Chương II\\Game Random\\Game Random\\obj\\",
+        "outputPath": "F:\\C#\\testgit\\testgit\\testgit\\Game Random\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

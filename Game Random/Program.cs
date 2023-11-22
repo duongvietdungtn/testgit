@@ -4,7 +4,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Console.OutputEncoding = UTF8Encoding.UTF8;
+        Console.OutputEncoding = UTF8Encoding.UTF8; 
+        Console.WriteLine("Máy B chào máy A");
         Console.WriteLine("Xin chào các bạn tôi đã test thành công chức năng push and pull github");
         Console.WriteLine("Chào mừng bạn đến với game: ĐI TÌM SỐ BÍ ẨN, kết thúc chương II.");
         Random rd = new Random();
