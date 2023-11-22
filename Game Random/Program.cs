@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         Console.OutputEncoding = UTF8Encoding.UTF8;
-        Console.WriteLine("Chào mừng bạn đến với game: ĐI TÌM SỐ BÍ ẨN, kết thúc chương II.");
+        Console.WriteLine("(Đây là code sau khi update github)Chào mừng bạn đến với game: ĐI TÌM SỐ BÍ ẨN, kết thúc chương II.");
         Random rd = new Random();
         int x = rd.Next(21);
         Console.WriteLine("Số random: {0}", x);
