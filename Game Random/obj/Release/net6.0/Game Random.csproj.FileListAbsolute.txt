@@ -1,0 +1,14 @@
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\bin\Release\net6.0\Game Random.exe
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\bin\Release\net6.0\Game Random.deps.json
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\bin\Release\net6.0\Game Random.runtimeconfig.json
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\bin\Release\net6.0\Game Random.dll
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\bin\Release\net6.0\Game Random.pdb
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.GeneratedMSBuildEditorConfig.editorconfig
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.AssemblyInfoInputs.cache
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.AssemblyInfo.cs
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.csproj.CoreCompileInputs.cache
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.dll
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\refint\Game Random.dll
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.pdb
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\Game Random.genruntimeconfig.cache
+T:\Code\C#\Cơ Bản\Chương II\Game Random\Game Random\obj\Release\net6.0\ref\Game Random.dll
